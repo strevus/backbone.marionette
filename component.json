@@ -31,7 +31,7 @@
     }
   ],
   "dependencies" : {
-    "backbone" : "latest"
+    "backbone" : "1.0.0"
   }
 }
 
